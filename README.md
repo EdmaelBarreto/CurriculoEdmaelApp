@@ -173,5 +173,3 @@ Verifique se o nome da imagem no código é exatamente igual ao arquivo na pasta
 Código aberto, livre para estudos, personalização e envio para portfólio.
 
 ---
-
-É só pedir! 🚀🔥
